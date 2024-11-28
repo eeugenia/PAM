@@ -1,0 +1,49 @@
+name: laborator4
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.5   # Adăugat pentru GetX
+  http: ^1.2.2  # Dacă folosești HTTP pentru încărcarea datelor
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data.json
+    - assets/doctor1.jpg
+    - assets/doctor2.jpg
+    - assets/doctor3.jpg
+    - assets/stomatologie.jpg
+    - assets/cardiologie.png
+    - assets/pediatrie.png
+    - assets/neurologie.png
+    - assets/dermatologie.png
+    - assets/oncologie.png
+    - assets/chirurgie.png
+    - assets/ortopedie.png
+    - assets/ginecologie.png
+    - assets/psihiatrie.png
+    - assets/banner.jpg
+    - assets/medlife_clinic.jpg
+    - assets/centru_panduri.jpg
+    - assets/spital_coltea.jpg
+    - assets/bucuresti.jpg
+    - assets/spital1.jpg
+    - assets/spital2.jpg
+
