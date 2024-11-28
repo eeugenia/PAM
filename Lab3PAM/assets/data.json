@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "name": "Stomatologie",
+      "image": "assets/stomatologie.jpg"
+    },
+    {
+      "name": "Cardiologie",
+      "image": "assets/cardiologie.png"
+    },
+    {
+      "name": "Pediatrie",
+      "image": "assets/pediatrie.png"
+    },
+    {
+      "name": "Neurologie",
+      "image": "assets/neurologie.png"
+    },
+    {
+      "name": "Dermatologie",
+      "image": "assets/dermatologie.png"
+    },
+    {
+      "name": "Oncologie",
+      "image": "assets/oncologie.png"
+    },
+    {
+      "name": "Chirurgie",
+      "image": "assets/chirurgie.png"
+    },
+    {
+      "name": "Ortopedie",
+      "image": "assets/ortopedie.png"
+    },
+    {
+      "name": "Ginecologie",
+      "image": "assets/ginecologie.png"
+    },
+    {
+      "name": "Psihiatrie",
+      "image": "assets/psihiatrie.png"
+    }
+  ],
+  "doctors": [
+    {
+      "name": "Dr. Marin Popescu",
+      "specialty": "Stomatologie",
+      "imageUrl": "assets/doctor1.jpg",
+      "center": "Spitalul Universitar București",
+      "rating": "4.7",
+      "reviews": "100 recenzii"
+    },
+    {
+      "name": "Dr. Ion Ionescu",
+      "specialty": "Cardiologie",
+      "imageUrl": "assets/doctor2.jpg",
+      "center": "Clinica Medlife",
+      "rating": "4.5",
+      "reviews": "80 recenzii"
+    },
+    {
+      "name": "Dr. Ana Georgescu",
+      "specialty": "Pediatrie",
+      "imageUrl": "assets/doctor3.jpg",
+      "center": "Spitalul Colțea",
+      "rating": "4.9",
+      "reviews": "120 recenzii"
+    }
+  ],
+  "nearbyCenters": [
+    {
+      "name": "Spitalul Universitar București",
+      "location": "Str. Nicolae Cajal 1, București, România",
+      "image": "assets/bucuresti.jpg",
+      "rating": "4.3",
+      "reviews": "250 recenzii"
+    },
+    {
+      "name": "Clinica Medlife",
+      "location": "Str. Popa Petre 24, București, România",
+      "image": "assets/medlife_clinic.jpg",
+      "rating": "4.5",
+      "reviews": "150 recenzii"
+    },
+    {
+      "name": "Spitalul Colțea",
+      "location": "Bulevardul I.C. Brătianu 1, București, România",
+      "image": "assets/spital_coltea.jpg",
+      "rating": "4.8",
+      "reviews": "300 recenzii"
+    }
+  ]
+}
